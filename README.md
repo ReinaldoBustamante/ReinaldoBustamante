@@ -6,7 +6,3 @@ Hello, my name is Reinaldo Bustamante, I am from Chile and I am a student of com
 
 * JavaScript, Python, Html, Css, ReactJs, NodeJs, ExpressJs, mysql, mongodb
 
-
-### Where to find me
-
-* 	:mailbox: reinaldo.bustamante04@gmail.com

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Reinaldo Bustamante</h1>
-<h3 align="center">I am a Full Stack Developer specialized in web development with Next.js, TypeScript, JavaScript, and Node.js. I have experience working in teams and applying agile methodologies to develop efficient and scalable solutions. My focus is on creating user-centered web applications, optimizing performance, and enhancing user experience.</h3>
+<h1>Hi 👋, I'm Reinaldo Bustamante</h1>
+<h3>I am a Full Stack Developer specialized in web development with Next.js, TypeScript, JavaScript, and Node.js. I have experience working in teams and applying agile methodologies to develop efficient and scalable solutions. My focus is on creating user-centered web applications, optimizing performance, and enhancing user experience.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.reinaldobustamante.dev/](https://www.reinaldobustamante.dev/)
 

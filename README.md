@@ -10,8 +10,11 @@
 </p>
 <h3 align="center">🌱 I’m currently learning <strong>Kubernetes and Jenkins</strong></h3>
 <h3 align="center">📫 Contact me on 📫</h3>
-<p align="center"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  
+<p align="center">
+  <a href="www.linkedin.com/in/reinaldo-bustamante026">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
